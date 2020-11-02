@@ -1,0 +1,20 @@
+from statistik import*
+x = (5,10,4,9,30,16,2,11)
+y = (81,98,12,83,45,77,69,30,56)
+
+print('x =',x)
+print('rata-ratanya =',end='')
+average(5,10,4,9,30,16,2,11)
+print('nilai maksnya =',end='')
+maks(5,10,4,9,30,16,2,11)
+print('nilai minnya =',end='')
+min(5,10,4,9,30,16,2,11)
+print('')
+print('y =',y)
+print('rata-ratanya =',end='')
+average(81,98,12,83,45,77,69,30,56)
+print('nilai maksnya =',end='')
+maks(81,98,12,83,45,77,69,30,56)
+print('nilai minnya =',end='')
+min(81,98,12,83,45,77,69,30,56)
+
