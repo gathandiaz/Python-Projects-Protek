@@ -1,0 +1,9 @@
+
+Hasil penjumlahan file 5.txt(Bil. diatas) dari ruas kiri dan kanan ialah =
+80
+105
+146
+168
+124
+57
+
