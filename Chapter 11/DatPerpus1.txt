@@ -1,0 +1,3 @@
+K32|Gathan|Python Dasar|2021-01-12|2021-01-19
+K11|Diaz|Python Master|2021-01-12|2021-01-19
+K22|saktian|Bahasa Pemrogaman|2021-01-12|2021-01-19
